@@ -11,8 +11,6 @@ research_gpt_assistant/
 │   ├── sample_papers/               # Sample PDF research papers
 │   └── processed/                   # Extracted text files
 ├── results/
-│   ├── summaries/                   # Generated document summaries
-│   ├── analyses/                    # Research analyses and insights
 │   └── evaluation_results.txt       # System performance metrics
 └── prompts/
-    └── prompt_templates.txt         # All prompt templates used
+   
